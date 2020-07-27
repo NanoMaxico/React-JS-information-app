@@ -1,0 +1,21 @@
+
+.header{
+    background-color: black;
+}
+.body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-size: xx-large;
+    padding-right: 100px;
+}
+p{
+    color: white;
+    font-size: xx-large;
+}
+.egs{
+    display: flex;
+    justify-content: space-between;
+    
+}
